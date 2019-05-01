@@ -1,0 +1,13 @@
+{
+"name":"See It All",
+"description":"See all of what the NZHerald sent your browser",
+"version":"1",
+"manifest_version":2,
+"content_scripts": [
+    {
+      "matches": ["http://www.nzherald.co.nz/*","https://www.nzherald.co.nz/*"],
+      "js": ["seeit.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
