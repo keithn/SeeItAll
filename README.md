@@ -1,6 +1,6 @@
 # SeeItAll
 
-Simple plugin for chrome to see all the hidden content on the NZherald
+Simple plugin for chrome to see all the hidden content on NZ herald (https://www.nzherald.co.nz)
 
 
 ## To Install
